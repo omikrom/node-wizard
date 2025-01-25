@@ -1,6 +1,6 @@
 # NodeWizard
 
-[![NodeWizard](assets/node-wizard-logo.webp)]
+<img src="assets/node-wizard-logo.webp" alt="NodeWizard" width="300" />
 
 **NodeWizard** is a lightweight, dynamic, node-based flow handler for JavaScript applications. It is designed for creating multi-step forms, guided wizards, and any application that requires conditional step-by-step navigation.
 
